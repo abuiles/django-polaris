@@ -18,6 +18,7 @@ whitenoise = "*"
 psycopg2-binary = "*"
 django-cors-headers = "*"
 django-polaris = {path = "/code", editable = true}
+django-sslserver = "*"
 
 [requires]
 python_version = "3.7"
